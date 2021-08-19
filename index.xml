@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://clairelee8.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://clairelee8.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://clairelee8.github.io/about/</link>
+      <pubDate>Mon, 02 Aug 2021 23:35:12 -0700</pubDate>
+      
+      <guid>https://clairelee8.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
